@@ -55,4 +55,3 @@ O código foi verificado no **[W3C HTML Validator](https://validator.w3.org/)**,
 
 ---
 
-✍️ *Este README foi criado para fins acadêmicos como parte da disciplina de Desenvolvimento Web.*
